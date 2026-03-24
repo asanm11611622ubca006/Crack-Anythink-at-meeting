@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🎙️ Crack Anything at Meeting
 
@@ -8,7 +8,6 @@
 [![Gemini](https://img.shields.io/badge/Google%20Gemini-Flash%202.0-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![Vosk](https://img.shields.io/badge/Vosk-Offline%20STT-FF6F00?style=for-the-badge)](https://alphacephei.com/vosk/)
 [![Windows](https://img.shields.io/badge/Windows-Desktop%20App-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 <br/>
 
@@ -261,12 +260,6 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 <div align="center">
 
 **Made with ❤️ for better meeting accessibility**
@@ -274,4 +267,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ⭐ **Star this repo** if you find it helpful!
 
 </div>
-]]>

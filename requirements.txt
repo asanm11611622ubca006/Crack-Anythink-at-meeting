@@ -1,0 +1,5 @@
+numpy>=1.26
+python-dotenv>=1.0
+requests>=2.32
+soundcard>=0.4.5
+vosk>=0.3.45
